@@ -7,5 +7,5 @@
 # Nous rejoindre :
 > https://discord.gg/HgDKy7FcVJ
 
-# Nous aider :
+# Nous soutenir :
 > [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P575I1D)
